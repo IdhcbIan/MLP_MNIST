@@ -87,7 +87,7 @@ def main():
             elif event.type == pygame.KEYDOWN:
                 if event.key == pygame.K_RETURN:
                     flat_grid = flatten_grid(grid)
-                    #print(flat_grid)
+                    print(flat_grid)
                     clear_grid(grid)
 
 
