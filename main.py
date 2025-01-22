@@ -79,4 +79,5 @@ def reconstruct(flattened_array):
 
 
 
+
 reconstruct(train_images_flattened[n])
